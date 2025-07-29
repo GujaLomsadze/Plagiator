@@ -1,2 +1,9 @@
-psycopg2-binary
-python-dotenv
+markdown-it-py==3.0.0
+mdurl==0.1.2
+prompt_toolkit==3.0.51
+psycopg2-binary==2.9.10
+Pygments==2.19.2
+python-dotenv==1.1.1
+questionary==2.1.0
+rich==14.1.0
+wcwidth==0.2.13
